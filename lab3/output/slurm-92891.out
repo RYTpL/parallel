@@ -1,0 +1,796 @@
+/var/spool/slurm/d/job92891/slurm_script: line 7: modul: command not found
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1c5ab40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1aeab40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x83bb40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x7b9b60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x231bb60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xf71b80, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xe60b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x14c5b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1177b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x22c6b60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x973b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x15b4b60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x145db60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xd6fb60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x2041b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x11afb40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x165cb60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1fdcb40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x17deb40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x2341b60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x6c2b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1796b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xa01b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x16f2b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xa95b60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1288b60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xcceb80, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x827b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x143eb40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1da0b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x2283b60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xd0ab60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1b07b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1ec3b40, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x691b60, count=200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 6400 bytes received but buffer size is 800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x2343c80, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xdd2c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x11ccc60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1054c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x14d1c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xce6c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x2588c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x260cc40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1791c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1fe1c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xd61c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x12eec60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xf5fc60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x833c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xd9bc60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1073c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xed3c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1c8dc80, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x2044c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x259cc60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xb18c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1249c80, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xbf6c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x18e6c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x15c0c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xc95c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x24b8c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xb36c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x15d8c80, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1377c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1964c60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x189ac40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x2276c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x82dc60, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x23b1c40, count=800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 25600 bytes received but buffer size is 3200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1761340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xbba340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xe5e340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xfc5340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xf7d360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xfab360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x24b1360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1d09360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x961340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1ab7360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x643340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xdf3340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1831340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1534340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x190b360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xe1f340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1d52360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xad0380, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x179b340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x25de360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1d9f360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x25bc340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xd29340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x101b360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1d07360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1b74340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xf86360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xceb340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xb84340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x2161360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xd16340, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0xcf2380, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x2612360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1613360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200).....................: MPI_Recv(buf=0x1d84360, count=1800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+MPIDI_CH3U_Receive_data_found(129): Message from rank 0 and tag 1 truncated; 57600 bytes received but buffer size is 7200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2237040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xe28040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xe58040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1743060, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1d30060, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1f36060, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1957040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x765040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2402080, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1255040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1a2f040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1fee040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x19c0040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xcf6080, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xaf4040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x7b5060, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1d6c060, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xb5b060, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x121f060, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x748040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x742040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x188d040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1428040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1a2e040, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x19bc060, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1639060, count=3200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 102400 bytes received but buffer size is 12800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1009010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x25fc010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1507030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1e76030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x73b010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1947030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x20c1030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1ed3030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1b15010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1d8b030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x23ad010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x701030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1912030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1a80010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1930010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x16ac010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2163030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1792010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x15fb010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xc18010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x142d010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1230010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xd2e030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1259030, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x12d7010, count=5000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 160000 bytes received but buffer size is 20000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x21b5030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x11bf030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xecb010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x7b6030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1450030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1099030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x687030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xa17030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x739010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2298010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1bc3010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1aaf010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1574030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xa78030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x901030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1db9010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1d81010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x16b9010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x21a0010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xbd8050, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x17bd030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x9cb030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1b51030, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xc0d010, count=7200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 230400 bytes received but buffer size is 28800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1022030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xf08010, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x11d7010, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1a4c010, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1a8a030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2432010, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x204c030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1597010, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xf24010, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x8a1030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1528030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1d0b030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xab3030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1abb030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x9b0030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1aa3030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x7a6030, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x23df010, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x19ab050, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xa3d010, count=9800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 313600 bytes received but buffer size is 39200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2481010, count=12800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 409600 bytes received but buffer size is 51200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2307010, count=12800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 409600 bytes received but buffer size is 51200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x96d030, count=12800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 409600 bytes received but buffer size is 51200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xd3e010, count=12800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 409600 bytes received but buffer size is 51200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1c59030, count=12800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 409600 bytes received but buffer size is 51200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x25b6010, count=16200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 518400 bytes received but buffer size is 64800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x859050, count=16200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 518400 bytes received but buffer size is 64800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x21f6030, count=16200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 518400 bytes received but buffer size is 64800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x150b010, count=16200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 518400 bytes received but buffer size is 64800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x95c010, count=16200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 518400 bytes received but buffer size is 64800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x21a7010, count=20000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 640000 bytes received but buffer size is 80000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x23fe010, count=20000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 640000 bytes received but buffer size is 80000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x89b030, count=20000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 640000 bytes received but buffer size is 80000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x24de010, count=20000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 640000 bytes received but buffer size is 80000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x833030, count=20000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 640000 bytes received but buffer size is 80000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2518030, count=24200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 774400 bytes received but buffer size is 96800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1e02010, count=24200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 774400 bytes received but buffer size is 96800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1d3b030, count=24200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 774400 bytes received but buffer size is 96800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xbca010, count=24200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 774400 bytes received but buffer size is 96800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1d34030, count=24200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 774400 bytes received but buffer size is 96800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x1f88010, count=28800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 921600 bytes received but buffer size is 115200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x13e8010, count=28800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 921600 bytes received but buffer size is 115200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2461010, count=28800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 921600 bytes received but buffer size is 115200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0xd68010, count=28800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 921600 bytes received but buffer size is 115200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x240d030, count=28800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 921600 bytes received but buffer size is 115200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2af68cdcf010, count=33800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1081600 bytes received but buffer size is 135200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b9ed37bd010, count=33800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1081600 bytes received but buffer size is 135200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2aea7a64c010, count=33800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1081600 bytes received but buffer size is 135200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b96a52c7010, count=33800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1081600 bytes received but buffer size is 135200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2adbd4517010, count=33800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1081600 bytes received but buffer size is 135200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b52609a1010, count=39200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1254400 bytes received but buffer size is 156800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ac991ab1010, count=39200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1254400 bytes received but buffer size is 156800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ae9807e6010, count=39200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1254400 bytes received but buffer size is 156800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b89b7406010, count=39200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1254400 bytes received but buffer size is 156800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b6f2424b010, count=39200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1254400 bytes received but buffer size is 156800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ada5a50c010, count=45000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1440000 bytes received but buffer size is 180000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ab3e6c9f010, count=45000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1440000 bytes received but buffer size is 180000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b14d3293010, count=45000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1440000 bytes received but buffer size is 180000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b5fc4956010, count=45000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1440000 bytes received but buffer size is 180000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b1301112010, count=45000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1440000 bytes received but buffer size is 180000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2abcecbb2010, count=51200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1638400 bytes received but buffer size is 204800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2aea7535c010, count=51200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1638400 bytes received but buffer size is 204800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ba9dbdc3010, count=51200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1638400 bytes received but buffer size is 204800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2acd22037010, count=51200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1638400 bytes received but buffer size is 204800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2aacef843010, count=51200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1638400 bytes received but buffer size is 204800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ac8d0db2010, count=57800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1849600 bytes received but buffer size is 231200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b94d6a19010, count=57800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1849600 bytes received but buffer size is 231200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ac9ac8c1010, count=57800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1849600 bytes received but buffer size is 231200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2af58ad3a010, count=57800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1849600 bytes received but buffer size is 231200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ba3103b2010, count=57800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 1849600 bytes received but buffer size is 231200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ac65c2ea010, count=64800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2073600 bytes received but buffer size is 259200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b3ec3449010, count=64800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2073600 bytes received but buffer size is 259200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b2b2685c010, count=64800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2073600 bytes received but buffer size is 259200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ba3c579d010, count=64800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2073600 bytes received but buffer size is 259200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b8064607010, count=64800, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2073600 bytes received but buffer size is 259200
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ae579de6010, count=72200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2310400 bytes received but buffer size is 288800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2ac763970010, count=72200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2310400 bytes received but buffer size is 288800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b4c3e809010, count=72200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2310400 bytes received but buffer size is 288800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b73f7885010, count=72200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2310400 bytes received but buffer size is 288800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b9c0fd3c010, count=72200, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2310400 bytes received but buffer size is 288800
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b3cdb45a010, count=80000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2560000 bytes received but buffer size is 320000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b6a36cc3010, count=80000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2560000 bytes received but buffer size is 320000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2aae38ccc010, count=80000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2560000 bytes received but buffer size is 320000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2b386c8ca010, count=80000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2560000 bytes received but buffer size is 320000
+Fatal error in MPI_Recv: Message truncated, error stack:
+MPI_Recv(200): MPI_Recv(buf=0x2afa677b3010, count=80000, MPI_INT, src=0, tag=1, MPI_COMM_WORLD, status=0x1) failed
+do_cts(629)..: Message truncated; 2560000 bytes received but buffer size is 320000
